@@ -40,7 +40,7 @@ parameters:
     
     # Ignora erros em arquivos específicos (opcional)
     excludePaths:
-        - app/Http/Middleware/bootstrap/cache
+        - bootstrap/cache
 ```
 
 ### Configurando o Pint
